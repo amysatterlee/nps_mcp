@@ -1,6 +1,7 @@
 ---
 
 # MCP Server for National Park Services Data
+[![smithery badge](https://smithery.ai/badge/@amysatterlee/nps_mcp)](https://smithery.ai/server/@amysatterlee/nps_mcp)
 
 This MCP Server provides an interface to retrieve National Park Services (NPS) data. It allows users to:
 - Retrieve a list of national parks in a given U.S. state.
@@ -129,4 +130,5 @@ What National Parks are in the state of CA?
 ```text
 Give me details about Yellowstone National Park.
 ```
+
 
